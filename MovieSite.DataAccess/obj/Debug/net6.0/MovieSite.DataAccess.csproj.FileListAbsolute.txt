@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\bin\Debug\net6.0\MovieSite.DataAccess.deps.json
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\bin\Debug\net6.0\MovieSite.DataAccess.runtimeconfig.json
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\bin\Debug\net6.0\MovieSite.DataAccess.dll
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\bin\Debug\net6.0\MovieSite.DataAccess.pdb
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\bin\Debug\net6.0\MovieSite.Entities.dll
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\bin\Debug\net6.0\MovieSite.Entities.pdb
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\obj\Debug\net6.0\MovieSite.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\obj\Debug\net6.0\MovieSite.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\obj\Debug\net6.0\MovieSite.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\obj\Debug\net6.0\MovieSite.DataAccess.AssemblyInfo.cs
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\obj\Debug\net6.0\MovieSite.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\obj\Debug\net6.0\MovieSite.DataAccess.csproj.CopyComplete
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\obj\Debug\net6.0\MovieSite.DataAccess.dll
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\obj\Debug\net6.0\refint\MovieSite.DataAccess.dll
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\obj\Debug\net6.0\MovieSite.DataAccess.pdb
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\obj\Debug\net6.0\MovieSite.DataAccess.genruntimeconfig.cache
+C:\Users\User\source\repos\FilmSite\MovieSite.DataAccess\obj\Debug\net6.0\ref\MovieSite.DataAccess.dll

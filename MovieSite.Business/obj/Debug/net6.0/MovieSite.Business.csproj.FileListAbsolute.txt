@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\bin\Debug\net6.0\MovieSite.Business.deps.json
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\bin\Debug\net6.0\MovieSite.Business.dll
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\bin\Debug\net6.0\MovieSite.Business.pdb
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\bin\Debug\net6.0\MovieSite.DataAccess.dll
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\bin\Debug\net6.0\MovieSite.Entities.dll
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\bin\Debug\net6.0\MovieSite.DataAccess.pdb
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\bin\Debug\net6.0\MovieSite.Entities.pdb
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\obj\Debug\net6.0\MovieSite.Business.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\obj\Debug\net6.0\MovieSite.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\obj\Debug\net6.0\MovieSite.Business.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\obj\Debug\net6.0\MovieSite.Business.AssemblyInfo.cs
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\obj\Debug\net6.0\MovieSite.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\obj\Debug\net6.0\MovieSite.Business.csproj.CopyComplete
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\obj\Debug\net6.0\MovieSite.Business.dll
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\obj\Debug\net6.0\refint\MovieSite.Business.dll
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\obj\Debug\net6.0\MovieSite.Business.pdb
+C:\Users\User\source\repos\FilmSite\MovieSite.Business\obj\Debug\net6.0\ref\MovieSite.Business.dll

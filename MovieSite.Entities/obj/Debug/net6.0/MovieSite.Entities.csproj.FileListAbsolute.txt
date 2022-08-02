@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\FilmSite\MovieSite.Entities\bin\Debug\net6.0\MovieSite.Entities.deps.json
+C:\Users\User\source\repos\FilmSite\MovieSite.Entities\bin\Debug\net6.0\MovieSite.Entities.dll
+C:\Users\User\source\repos\FilmSite\MovieSite.Entities\bin\Debug\net6.0\MovieSite.Entities.pdb
+C:\Users\User\source\repos\FilmSite\MovieSite.Entities\obj\Debug\net6.0\MovieSite.Entities.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FilmSite\MovieSite.Entities\obj\Debug\net6.0\MovieSite.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FilmSite\MovieSite.Entities\obj\Debug\net6.0\MovieSite.Entities.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FilmSite\MovieSite.Entities\obj\Debug\net6.0\MovieSite.Entities.AssemblyInfo.cs
+C:\Users\User\source\repos\FilmSite\MovieSite.Entities\obj\Debug\net6.0\MovieSite.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FilmSite\MovieSite.Entities\obj\Debug\net6.0\MovieSite.Entities.dll
+C:\Users\User\source\repos\FilmSite\MovieSite.Entities\obj\Debug\net6.0\refint\MovieSite.Entities.dll
+C:\Users\User\source\repos\FilmSite\MovieSite.Entities\obj\Debug\net6.0\MovieSite.Entities.pdb
+C:\Users\User\source\repos\FilmSite\MovieSite.Entities\obj\Debug\net6.0\ref\MovieSite.Entities.dll
